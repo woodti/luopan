@@ -29,6 +29,7 @@
     { "id": "copilot", "name": "Microsoft Copilot", "url": "https://copilot.microsoft.com", "cat": "chat", "desc": "微软的 AI 助手，集成必应搜索，可在 Windows 和 Office 中使用。", "tags": ["微软", "必应"], "price": "freemium" },
     { "id": "le-chat", "name": "Le Chat", "url": "https://chat.mistral.ai", "cat": "chat", "desc": "法国 Mistral AI 的聊天助手，回答速度很快。", "tags": ["Mistral", "欧洲"], "price": "freemium" },
     { "id": "poe", "name": "Poe", "url": "https://poe.com", "cat": "chat", "desc": "一个账号用遍 GPT、Claude、Gemini 等上百个模型和机器人。", "tags": ["多模型聚合"], "price": "freemium" },
+    { "id": "studyarena", "name": "StudyArena", "url": "https://studyarena.com", "cat": "chat", "desc": "并排比较三个 AI 对同一道学习题的解释，投票后揭晓模型。免费方案需注册。", "tags": ["学习", "多模型比较"], "price": "freemium" },
 
     { "id": "perplexity", "name": "Perplexity", "url": "https://www.perplexity.ai", "cat": "search", "desc": "AI 搜索的代表，直接给出带引用来源的答案，可以连续追问。", "tags": ["引用来源", "深度研究"], "price": "freemium", "featured": true },
     { "id": "metaso", "name": "秘塔 AI 搜索", "url": "https://metaso.cn", "cat": "search", "desc": "没有广告的国产 AI 搜索，能生成大纲和脑图，支持学术搜索。", "tags": ["国产", "无广告", "学术"], "price": "free", "cn": true, "featured": true },
